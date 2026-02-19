@@ -57,14 +57,14 @@ A modern, responsive personal portfolio website to showcase my work as a develop
 ## Project Structure
 ```
 04-atlas-portfolio/
-├── index.html              # Main HTML file
+├── index.html               # Main HTML file
 ├── css/
-│   ├── style.css           # Main styles
-│   ├── style-switcher.css  # Theme switcher styles
-│   └── skins/              # 5 different color themes
+│   ├── style.css            # Main styles
+│   ├── style-switcher.css   # Theme switcher styles
+│   └── skins/               # 5 different color themes
 ├── js/
-│   ├── script.js           # Main JS (navigation, sidebar, ripple)
-│   └── style-switcher.js   # Theme colors and dark mode toggle
+│   ├── script.js            # Main JS (navigation, sidebar, ripple)
+│   └── style-switcher.js    # Theme colors and dark mode toggle
 ├── images/                  # Profile and project images
 └── README.md                # Project documentation
 ```
